@@ -1,4 +1,5 @@
-## NOTICE: RPAN STUDIO is now discontinued. This project was given to me and is now in the Archive Group.
+NOTICE: RPAN STUDIO is now discontinued. This project was given to me and is now in the Archive Group.
+======================================================================================================
 
 OBS Studio <https://obsproject.com>
 ===================================
